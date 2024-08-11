@@ -1,8 +1,8 @@
 {
     "token": "TOKEN_PLACEHOLDER",
-    "server": "SERVER_PLACEHOLDER",
     "roles": {
-        "stranger": "STRANGER_ROLE_PLACEHOLDER"
+        "stranger": "STRANGER_ROLE_PLACEHOLDER",
+        "default": "DEFAULT_ROLE_PLACEHOLDER"
     },
     "dev": true
 }

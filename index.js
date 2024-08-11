@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const config = require("./config.json");
 
-const Client = new Discord.Client({ partials: ["CHANNEL"], intents: 98303 });
+const Client = new Discord.Client({ partials: ["CHANNEL"], intents: 19992575 });
 
 // Error handling 
 
